@@ -193,11 +193,35 @@
         "title": "API 키"
       }
     },
+    "TogetherAI": {
+      "checker": {
+        "desc": "프록시 주소가 올바르게 입력되었는지 확인합니다."
+      },
+      "customModelName": {
+        "desc": "사용자 정의 모델을 추가하고, 여러 모델은 쉼표(,)로 구분합니다",
+        "placeholder": "mistralai/mistral-7b-instruct:free,openchat/openchat-7b:free",
+        "title": "사용자 정의 모델 이름"
+      },
+      "title": "TogetherAI",
+      "token": {
+        "desc": "TogetherAI AI에서 받은 API 키를 입력합니다.",
+        "placeholder": "TogetherAI AI API 키",
+        "title": "API 키"
+      }
+    },
     "Perplexity": {
       "title": "Perplexity",
       "token": {
         "desc": "Perplexity AI 에서 제공하는 API 키를 입력하세요",
         "placeholder": "Perplexity AI API 키",
+        "title": "API 키"
+      }
+    },
+    "ZeroOne": {
+      "title": "01.AI ZeroOne 만물",
+      "token": {
+        "desc": "01.AI ZeroOne의 API 키를 입력하세요",
+        "placeholder": "01.AI ZeroOne API 키",
         "title": "API 키"
       }
     },

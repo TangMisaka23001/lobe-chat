@@ -193,11 +193,35 @@
         "title": "Chave da API"
       }
     },
+    "TogetherAI": {
+      "checker": {
+        "desc": "Verifique se o endereço do proxy está preenchido corretamente"
+      },
+      "customModelName": {
+        "desc": "Adicione modelos personalizados, separando vários modelos com vírgula (,)",
+        "placeholder": "mistralai/mistral-7b-instruct:free,openchat/openchat-7b:free",
+        "title": "Nome do Modelo Personalizado"
+      },
+      "title": "TogetherAI",
+      "token": {
+        "desc": "Insira a chave da API do TogetherAI AI",
+        "placeholder": "Chave da API do TogetherAI AI",
+        "title": "Chave da API"
+      }
+    },
     "Perplexity": {
       "title": "Perplexity",
       "token": {
         "desc": "Insira a chave da API do Perplexity AI",
         "placeholder": "Chave da API do Perplexity AI",
+        "title": "Chave da API"
+      }
+    },
+    "ZeroOne": {
+      "title": "01.AI ZeroOne",
+      "token": {
+        "desc": "Insira a chave da API do 01.AI ZeroOne",
+        "placeholder": "Chave da API do 01.AI ZeroOne",
         "title": "Chave da API"
       }
     },
